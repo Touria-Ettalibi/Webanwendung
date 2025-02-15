@@ -44,4 +44,4 @@ Löschung abgeschlossen:  <br/>
 Gelöschte Festplatte überprüfen:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Festplatten-Säuberung Schritte"/>
 </p>
-# Webanwendung
+
